@@ -4,4 +4,8 @@ project(InfotecsStazhTask_program_1)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(InfotecsStazhTask
-        src/main.cpp)
+        src/main.cpp
+        src/core/mapper.h
+        src/core/io.h
+        src/core/action.cpp
+        src/core/action.h)
