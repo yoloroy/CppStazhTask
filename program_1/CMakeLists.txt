@@ -8,4 +8,8 @@ add_executable(InfotecsStazhTask
         src/core/mapper.h
         src/core/io.h
         src/core/action.cpp
-        src/core/action.h)
+        src/core/action.h
+        src/input_action/result_mapper.cpp
+        src/input_action/result_mapper.h
+        src/input_action/validator.cpp
+        src/input_action/validator.h)
