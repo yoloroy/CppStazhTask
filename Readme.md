@@ -25,6 +25,14 @@
 ---
 > Примечание по заданию: Не обязательно все размещать в одном классе. Может быть разработана иерархия классов. Чем более функционален интерфейс класса, тем лучше.
 
+## Instruction
+
+* Builds with CMake
+* Repository contains two files for two programs from task
+    * Every program contains `CMakeLists.txt` for build sources from src directory
+    * Every program contains `/test` directory with `CMakeLists.txt` in it for building and running tests
+* Documentation coming soon
+
 ## Credits
 
 - [👥 VK](https://vk.com/slartak)
